@@ -1,0 +1,66 @@
+3
+Alice
+6  1 2 4 5 6 7
+3  52 33 11
+
+3
+31
+3
+Expedition Enthusiasts Hub;
+1 1
+500
+
+1
+Just returned from a thrilling mountain climb! The view from the top was breathtaking.;
+3 
+Memories
+2
+1 2
+25 10 2017
+2  11 21
+
+1
+11
+1
+The sense of accomplishment after a climb is unmatched!.;
+
+2
+21
+1
+I bet the view was worth every step.;
+
+32
+3
+Gourmet Galore;
+1 1
+350
+
+1
+Tried a new recipe today. It turned out better than expected!;
+3 
+Culinary
+3
+1 2 3
+26 10 2017
+3  11 31 33
+
+1
+11
+1
+Looks delicious! Mind sharing the recipe?;
+
+2
+31
+1
+That sounds amazing! Would love to try it out;
+
+3
+33
+1
+Recipe please! It sounds mouthwatering;
+
+33
+3
+Creative Minds;
+0
+200

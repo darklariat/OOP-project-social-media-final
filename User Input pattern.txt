@@ -1,0 +1,37 @@
+User ID: int
+User Name: string
+Friend List: int (no. of friends) multiple int user IDS
+Liked Pages: int (no. of liked pages) multiple int page IDS
+
+No. of pages (int)
+Page ID: int       (first digit is user ID and second digit is page no. of that user)
+Page Owner ID: int
+Page Title: string
+Page Timeline: int (no. of posts) multiple int post IDs
+Total Likes: int
+
+No. of posts (int)
+Post ID: int (position no. of post in that page) 
+Description: string
+Activity Type: int
+Activity Value: string
+Likes: int
+People Who Liked: multiple int User IDs
+Shared Date: all int(day month year)
+Comments: int (no. of comments) multiple Page IDs
+
+No. of comments (int)
+Comment ID: int
+User/Page ID: int (of that who commented)
+Post ID: int
+Comment: string
+
+Next post (then comments in that post)
+Next page
+Next post of that page (then comments)
+.
+.
+.
+.
+.  
+Till all pages along with their posts and comments have been entered

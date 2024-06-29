@@ -1,0 +1,84 @@
+7
+1
+John
+6   2 3 4 5 6 7
+3   32 51 42
+
+1
+11
+1
+ExploreEpic;
+3  1 2 3
+500
+
+1
+Just discovered an amazing hiking spot! Who's up for an adventure?;
+3
+Memories
+3
+1 3 6
+25 10 2017
+3  21 31 52
+
+1
+21
+1
+Count me in! I love hiking!;
+
+2
+31
+1
+Sounds amazing! Let's plan it soon.;
+
+3
+52
+1
+Wish I could join! Enjoy the adventure.;
+
+2
+Feeling grateful for the little things today. What's something that made you smile?;
+1 
+Grateful
+3
+2 3 7
+26 10 2017
+3  33 51 61
+
+1
+33
+2
+Seeing my pet wagging its tail always makes my day!;
+
+2
+51
+2
+Gratitude truly changes everything.;
+
+3
+61
+2
+Wonderful! A smile from a stranger can turn the day around.;
+
+3
+Reflecting on the beauty of nature. Sometimes, all you need is a moment of peace.;
+2 
+Reflection
+4
+1 4 5 6
+27 10 2017
+3  11 21 32
+
+1
+11
+3
+Nature has a way of healing the soul.;
+
+2
+21
+3
+Totally agree. It's like hitting the reset button.;
+
+3
+32
+3
+Finding peace in the chaos is a true blessing.;
